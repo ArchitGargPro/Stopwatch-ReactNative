@@ -12,22 +12,6 @@ class ListComponent extends Component {
                 return `${number}`
             }
         }
-        // console.log('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>',this.props.lap);
-
-        // const data = [
-        //     {
-        //         "key": 1,
-        //         "mSec": 4,
-        //         "min": 0,
-        //         "sec": 1,
-        //     },
-        //     {
-        //         "key": 2,
-        //         "mSec": 45,
-        //         "min": 58,
-        //         "sec": 10,
-        //     },
-        // ];
 
         return (
             <ScrollView style={styles.scroll}>

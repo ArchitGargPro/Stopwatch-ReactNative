@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
         maxHeight: "50%",
         backgroundColor: "#C89933",
         borderRadius: 20,
-        margin: "5%",
+        marginBottom: 5,
         padding: 5,
     },
 
